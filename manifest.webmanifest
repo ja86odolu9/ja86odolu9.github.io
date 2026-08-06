@@ -1,0 +1,10 @@
+{
+  "name": "钱钱管家",
+  "short_name": "钱钱",
+  "description": "本地优先的个人理财习惯管家",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfaf6",
+  "theme_color": "#ad7835",
+  "lang": "zh-CN"
+}
